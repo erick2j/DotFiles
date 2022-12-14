@@ -1,0 +1,9 @@
+# Do not add newline character before prompt
+add_newline = false
+
+# Single-lined prompt
+[line_break]
+disabled = true
+
+[character]
+success_symbol = "[❯](green)"
