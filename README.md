@@ -2,7 +2,7 @@
 Dotfiles for various programs such as Vim, i3, and custom snippets for VimTeX.
 
 # Introduction
-I use a combination of [free software](https://directory.fsf.org/?pk_campaign=fsfredesign#About) and [open source](https://opensource.org/about)
+I use a combination of [free software](https://directory.fsf.org/?pk_campaign=fsfredesign#About) and [open source software](https://opensource.org/about)
 to get my work done.
 The software I use includes:
 * [i3](https://i3wm.org/) 
