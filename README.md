@@ -6,9 +6,9 @@ I use a combination of [free software](https://directory.fsf.org/?pk_campaign=fs
 to get my work done.
 The software I use includes:
 * [i3](https://i3wm.org/) 
-* [Vim](https://www.vim.org/)
-* [vim-plug](https://github.com/junegunn/vim-plug) (for managing Vim plug-ins)
-* [UltiSnips](https://github.com/SirVer/ultisnips) (a Vim plug-in)
+* [Neovim](https://neovim.io/)
+* [Packer ](https://github.com/wbthomason/packer.nvim) (for managing Vim plug-ins)
+* [UltiSnips](https://github.com/SirVer/ultisnips) (a Vim Snippet plug-in)
 * [Alacritty Terminal Emulator](https://alacritty.org/)
 * [Starship](https://starship.rs/) (Command Prompt)
 
@@ -27,15 +27,11 @@ From there, you can log out of your desktop environment and choose to load the i
 When prompted as to whether you would like to generate an i3 configuration, opt 'yes' and replace that config file with mine!
 More information on this to come.
 
-## Vim
-To install Vim simply run:
+## Neovim
+To install Neovim simply run:
   ```
-  sudo apt install vim
+  sudo apt install neovim
   ```
-though you very likely already have this program.
-
-## vim-plug
-To install vim-plug, follow these [instructions](https://github.com/junegunn/vim-plug).
 
 ## UltiSnips
 Updates coming soon.
