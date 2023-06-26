@@ -1,15 +1,17 @@
 # DotFiles
-Dotfiles for various programs such as Vim, i3, and custom snippets for VimTeX.
+Dotfiles for various programs such as Neovim, i3, and custom snippets for VimTeX.
 
 # Introduction
-I use a combination of [free software](https://directory.fsf.org/?pk_campaign=fsfredesign#About) and [open source software](https://opensource.org/about)
-to get my work done.
+I use a combination of [free software](https://directory.fsf.org/?pk_campaign=fsfredesign#About) and [open source software](https://opensource.org/about) to get my work done.
+Whenever possible, I prefer to use free software over open source software, and I strictly avoid using closed, properietary software.
+As a result, I have built a custom environment of free software to faciliate my workflow.
+As a Computer Science PhD Student, my enviroment is custom built for coding in C, C++, Rust, as well as editing LaTeX documents.
+
 The software I use includes:
-* [i3](https://i3wm.org/) 
-* [Neovim](https://neovim.io/)
-* [Packer ](https://github.com/wbthomason/packer.nvim) (for managing Vim plug-ins)
-* [UltiSnips](https://github.com/SirVer/ultisnips) (a Vim Snippet plug-in)
+* [i3](https://i3wm.org/) (Tiling Window Manager)
+* [Neovim](https://neovim.io/) (Text Editor)
 * [Alacritty Terminal Emulator](https://alacritty.org/)
+* [UltiSnips](https://github.com/SirVer/ultisnips) (a Vim Snippet plug-in)
 * [Starship](https://starship.rs/) (Command Prompt)
 
 I will only detail the installation and configuration of these programs on my own operating system (Ubuntu 22.04), though these installation steps
